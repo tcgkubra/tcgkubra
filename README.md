@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @tcgkubra.
-You can learn more about me on my [LinkedIn Profile](https://linkedin.com/in/tcgerlach)
+You can learn more about me on [LinkedIn](https://linkedin.com/in/tcgerlach)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

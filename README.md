@@ -45,6 +45,7 @@
 - 📈 I set high standards for myself and expect the same from others
   - If my expections are too high, let me know so we can set appropriate expectations
 - 😠 I can be brutal in code reviews if coding standards are not met
+  - However, I am more than happy to discuss code and work to improve everyone's skills
 
 
 ## Things I love

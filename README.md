@@ -39,6 +39,7 @@
 - 👮‍♂️ I am studying for a PhD in Criminal Justice / Homeland Security
 - 🇨🇳 I am working toward HSK-3 Chinese Language Certification
 - 💻 I am thinking about studying for the AWS Certified Solutions Architect exam
+- ✈️ I am planning to start flying lessons this spring to get my pilot license
   
   
 ## Things I struggle with

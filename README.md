@@ -7,7 +7,7 @@
 
 
 ## Times / hours I like to work
-- 🕛 8AM-4PM Eastern Time
+- 🕛 8 AM - 4:30 PM Eastern Time
 - 🏠 I live in Altoona, Pennsylvania and we observe DST
  
 
@@ -40,6 +40,12 @@
 - 🇨🇳 I am working toward HSK-3 Chinese Language Certification
 - 💻 I am thinking about studying for the AWS Certified Solutions Architect exam
   
+  
+## Things I struggle with
+- 📈 I set high standards for myself and expect the same from others
+  - If my expections are too high, let me know so we can set appropriate expectations
+- 😠 I can be brutal in code reviews if coding standards are not met
+
 
 ## Things I love
 - 🤖 Artificial Intelligence
@@ -60,4 +66,3 @@
 - 📻 I am a ham radio operator
 - 🌎 Connect with me on [LinkedIn](https://linkedin.com/in/tcgerlach)
 - 📖 See what [I'm currently reading](https://www.librarything.com/catalog/tcgerlach/currentlyreading)
-

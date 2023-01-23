@@ -56,6 +56,7 @@
 
 
 ## Other stuff
+- 🖼️ I believe laptop stickers are an important part of individual expression
 - 📜 I have an odd education which gives me a different perspective from many developers
   - 🧠 Associate of Science in Psychology
   - 💻 Bachelor of Science in Software Development

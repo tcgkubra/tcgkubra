@@ -35,7 +35,7 @@
 - 📜 I am comfortable researching topics to get a better understanding
 
 
-## 🌱 I’m currently learning
+## I’m currently learning
 - 👮‍♂️ I am studying for a PhD in Criminal Justice / Homeland Security
 - 🇨🇳 I am working toward HSK-3 Chinese Language Certification
 - 💻 I am thinking about studying for the AWS Certified Solutions Architect exam
@@ -50,14 +50,14 @@
 
 ## Other stuff
 - 📜 I have an odd education which gives me a different perspective from many developers
- - 🧠 Associate of Science in Psychology
- - 💻 Bachelor of Science in Software Development
- - 📈 Master of Business Administration in Information Technology Management
- - 🕵️‍♂️ Doctor of Philosophy in Criminal Justice / Homeland Security (In Progress)
+  - 🧠 Associate of Science in Psychology
+  - 💻 Bachelor of Science in Software Development
+  - 📈 Master of Business Administration in Information Technology Management
+  - 🕵️‍♂️ Doctor of Philosophy in Criminal Justice / Homeland Security (In Progress)
 - 🎖️ I am a US Army Veteran
 - 🎷 I am a musician and play multiple instruments
 - 🥋 I have a third degree black belt in Taekwondo
 - 📻 I am a ham radio operator
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png)] Connect with me on [LinkedIn](https://linkedin.com/in/tcgerlach)
+- !(https://i.stack.imgur.com/gVE0j.png) Connect with me on [LinkedIn](https://linkedin.com/in/tcgerlach)
 - 📖 See what [I'm currently reading](https://www.librarything.com/catalog/tcgerlach/currentlyreading)
 

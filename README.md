@@ -12,11 +12,11 @@
  
 
 ## Best ways to communicate with me
-- ✔️ Slack @tgerlach
-- ✔️ Phone: 814.505.7430
-- ✔️ JIRA/Confluence @tgerlach
-- ✔️ Email: thomas.gerlach@kubra.com
-- ⭕ MS Teams: thomas.gerlach@hearst.com - I'm not a fan of microsoft products
+- ✔️ Slack - @tgerlach
+- ✔️ Phone - 814.505.7430
+- ✔️ JIRA/Confluence - @tgerlach
+- ✔️ Email - thomas.gerlach@kubra.com
+- ⭕ MS Teams - thomas.gerlach@hearst.com - I'm not a fan of microsoft products
 
 
 ## How I best recieve feedback

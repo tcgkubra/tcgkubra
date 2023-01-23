@@ -66,5 +66,8 @@
 - 🎷 I am a musician and play multiple instruments
 - 🥋 I have a third degree black belt in Taekwondo
 - 📻 I am a ham radio operator
+
+
+# Learn more about me
 - 🌎 Connect with me on [LinkedIn](https://linkedin.com/in/tcgerlach)
 - 📖 See what [I'm currently reading](https://www.librarything.com/catalog/tcgerlach/currentlyreading)

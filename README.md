@@ -1,12 +1,63 @@
-# 👋 Hi, I’m @tcgkubra.
-You can learn more about me on [LinkedIn](https://linkedin.com/in/tcgerlach)
+# 👋 Hi, I’m @tcgkubra
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-  - Studying for a PhD in Criminal Justice / Homeland Security
-  - Working toward HSK-3 Chinese Language Certification
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+## Conditions I like to work in
+- 🎵 I like to listen to music or real crime shows while working
+- 🖥️ I like tools I can use from the command line
+- 🚶 If I get stuck on a task, I like to walk and analyze the issue 
+
+
+## Times / hours I like to work
+- 🕛 8AM-4PM Eastern Time
+- 🏠 I live in Altoona, Pennsylvania and we observe DST
+ 
+
+## 📱 Best ways to communicate with me
+- ✔️ Slack @tgerlach
+- ✔️ Phone: 814.505.7430
+- ✔️ JIRA/Confluence @tgerlach
+- ✔️ Email: thomas.gerlach@kubra.com (I only check 2-3 times per day)
+- ⭕ MS Teams: thomas.gerlach@hearst.com - I'm not a fan of microsoft products
+
+
+## How I best recieve feedback
+- 😀 I prefer face-to-face feedback - non-verbal communication is important
+- ☎️ When face-to-face feedback is not an option, phone calls are better than chat 
+
+
+## Things I need
+- 💵 I like to understand the business drivers that impact requirements
+- ❓ I'm okay with ambiguity, sometimes it's more effecient to move forward
+
+
+## How I learn best
+- 📖 I am an avid reader and life-long learner
+- 🤹 I like to tinker with things and see how they work
+- 📜 I am comfortable researching topics to get a better understanding
+
+
+## 🌱 I’m currently learning
+- 👮‍♂️ I am studying for a PhD in Criminal Justice / Homeland Security
+- 🇨🇳 I am working toward HSK-3 Chinese Language Certification
+- 💻 I am thinking about studying for the AWS Certified Solutions Architect exam
+  
+
+## Things I love
+- 🤖 Artificial Intelligence
+- 🎵 Music
+- 🪐 Astronomy 
+- 💬 Foreign Languages
+
+
+## Other stuff
+- 📜 I have an odd education which gives me a different perspective from many developers
+ - 🧠 Associate of Science in Psychology
+ - 💻 Bachelor of Science in Software Development
+ - 📈 Master of Business Administration in Information Technology Management
+ - 🕵️‍♂️ Doctor of Philosophy in Criminal Justice / Homeland Security (In Progress)
+- 🎖️ I am a US Army Veteran
+- 🎷 I am a musician and play multiple instruments
+- 🥋 I have a third degree black belt in Taekwondo
+- 📻 I am a ham radio operator
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png)] Connect with me on [LinkedIn](https://linkedin.com/in/tcgerlach)
+- 📖 See what [I'm currently reading](https://www.librarything.com/catalog/tcgerlach/currentlyreading)
+

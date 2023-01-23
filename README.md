@@ -11,7 +11,7 @@
 - 🏠 I live in Altoona, Pennsylvania and we observe DST
  
 
-## 📱 Best ways to communicate with me
+## Best ways to communicate with me
 - ✔️ Slack @tgerlach
 - ✔️ Phone: 814.505.7430
 - ✔️ JIRA/Confluence @tgerlach

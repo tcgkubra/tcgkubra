@@ -50,8 +50,12 @@
 ## Things I love
 - 🤖 Artificial Intelligence
 - 🪐 Astronomy
+- 💻 Computers
 - 💬 Foreign Languages
+- 🥷 Martial Arts
+- 🧙 Medieval History
 - 🎵 Music
+- 👨‍👩‍👧‍👦 Social Sciences
 
 
 ## Other stuff
@@ -61,18 +65,18 @@
   - 📈 Master of Business Administration in Information Technology Management
   - 💻 Bachelor of Science in Software Development
   - 🧠 Associate of Science in Psychology
-  - :pill: Certificate in Herbal Medicine
-  - :key: Certificate in Locksmithing
-  - :radio: Extensive Training in Radio Communications Systems
+  - 💊 Certificate in Herbal Medicine
+  - 🔑 Certificate in Locksmithing
+  - 📻 Extensive Training in Radio Communications Systems
 - 🎖️ I am a US Army Veteran
 - 🎷 I am a musician and play multiple instruments
 - 🥋 I have a third degree black belt in Taekwondo
 - 📻 I am a ham radio operator
-- :page_facing_up: I have numerous certifications
-  - :office: Six Sigma Green Belt, Certified Scrum Master, ITIL
-  - :computer: CompTIA A+, Network+, Security+, PenTest+, Project+
-  - :man_scientist: CITI Program Responsible Conduct of Research, Human Subjects Research
-  - :technologist: CIW Advanced HTML5 and CSS Specialist, User Interface Designer
+- 📄 I have numerous certifications
+  - 👨‍💼 Six Sigma Green Belt, Certified Scrum Master, ITIL
+  - 💻 CompTIA A+, Network+, Security+, PenTest+, Project+
+  - 👨‍🔬 CITI Program Responsible Conduct of Research, Human Subjects Research
+  - 👨‍💻 CIW Advanced HTML5 and CSS Specialist, User Interface Designer
  
 
 ## Learn more about me

@@ -69,7 +69,7 @@
 - 🥋 I have a third degree black belt in Taekwondo
 - 📻 I am a ham radio operator
 - :page_facing_up: I have numerous certifications
- - :office: Six Sigma Green Belt, Certified Scrum Master, ITIL
+  - :office: Six Sigma Green Belt, Certified Scrum Master, ITIL
   - :computer: CompTIA A+, Network+, Security+, PenTest+, Project+
   - :man_scientist: CITI Program Responsible Conduct of Research, Human Subjects Research
   - :technologist: CIW Advanced HTML5 and CSS Specialist, User Interface Designer

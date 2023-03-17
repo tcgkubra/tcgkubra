@@ -51,18 +51,20 @@
 
 ## Things I love
 - 🤖 Artificial Intelligence
-- 🎵 Music
-- 🪐 Astronomy 
+- 🪐 Astronomy
 - 💬 Foreign Languages
+- 🎵 Music
 
 
 ## Other stuff
 - 🖼️ I believe laptop stickers are an important part of individual expression
 - 📜 I have an odd education which gives me a different perspective from many developers
-  - 🧠 Associate of Science in Psychology
-  - 💻 Bachelor of Science in Software Development
-  - 📈 Master of Business Administration in Information Technology Management
   - 🕵️‍♂️ Doctor of Philosophy in Criminal Justice / Homeland Security (In Progress)
+  - 📈 Master of Business Administration in Information Technology Management
+  - 💻 Bachelor of Science in Software Development
+  - 🧠 Associate of Science in Psychology
+  - :pill: Certificate in Herbal Medicine
+  - :key: Certificate in Locksmithing
 - 🎖️ I am a US Army Veteran
 - 🎷 I am a musician and play multiple instruments
 - 🥋 I have a third degree black belt in Taekwondo

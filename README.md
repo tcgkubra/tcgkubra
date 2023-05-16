@@ -77,6 +77,14 @@
   - 💻 CompTIA A+, Network+, Security+, PenTest+, Project+
   - 👨‍🔬 CITI Program Responsible Conduct of Research, Human Subjects Research
   - 👨‍💻 CIW Advanced HTML5 and CSS Specialist, User Interface Designer
+
+
+## Professional Memberships
+- 🧠 Association for the Advancement of Artificial Intelligence
+- 🔌 Institute of Electrical and Electronics Engineers
+- 💻 IEEE Computer Society
+- 🤖 IEEE Computational Intelligence Society
+- 👨‍👩‍👧‍👦 American Sociological Association
  
 
 ## Learn more about me

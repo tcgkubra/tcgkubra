@@ -37,9 +37,11 @@
 
 ## I’m currently learning
 - 👮‍♂️ I am studying for a PhD in Criminal Justice / Homeland Security
-- 🇨🇳 I am working toward HSK-3 Chinese Language Certification
-- 💻 I am thinking about studying for the AWS Certified Solutions Architect exam
-- ✈️ I am planning to start flying lessons this spring to get my pilot license
+- 🇨🇳 I am working toward HSK-3 Chinese language certification
+- 💻 I am studying for the AWS Certified Solutions Architect exam
+- 🗄️ I am preparing for the Mongo DB Associate Developer certification
+- ✈️ I am planning to start flying lessons this year to get my pilot license
+- :atom: I am learning how to program quantum computers 
   
   
 ## Things I struggle with

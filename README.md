@@ -8,6 +8,7 @@
 
 ## Times / hours I like to work
 - 🕛 8 AM - 4:30 PM Eastern Time
+  - 🌞 Summer Hours: 8 AM - 5:30 PM Eastern Time  
 - 🏠 I live in Altoona, Pennsylvania and we observe DST
  
 
@@ -82,11 +83,11 @@
 
 
 ## Professional Memberships
+- 👨‍👩‍👧‍👦 American Sociological Association
 - 🧠 Association for the Advancement of Artificial Intelligence
 - 🔌 Institute of Electrical and Electronics Engineers
-- 💻 IEEE Computer Society
 - 🤖 IEEE Computational Intelligence Society
-- 👨‍👩‍👧‍👦 American Sociological Association
+- 💻 IEEE Computer Society
  
 
 ## Learn more about me

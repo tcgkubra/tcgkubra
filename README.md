@@ -40,7 +40,8 @@
 - 👮‍♂️ I am studying for a PhD in Criminal Justice / Homeland Security
 - 🇨🇳 I am working toward HSK-3 Chinese language certification
 - 💻 I am studying for the AWS Certified Solutions Architect exam
-- :atom: I am learning how to program quantum computers 
+- :atom: I am learning how to program quantum computers
+- 🇻🇳 I recently started learning to speak Vietnamese
   
   
 ## Things I struggle with

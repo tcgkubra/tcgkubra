@@ -75,6 +75,7 @@
 - 🥋 I have a third degree black belt in Taekwondo
 - 📻 I am a ham radio operator
 - 📄 I have numerous certifications
+  - ☁️ AWS Certified Solutions Architect
   - 👨‍💼 Six Sigma Green Belt, Certified Scrum Master, ITIL
   - 💻 CompTIA A+, Network+, Security+, PenTest+, Project+
   - 👨‍🔬 CITI Program Responsible Conduct of Research, Human Subjects Research

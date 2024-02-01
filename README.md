@@ -2,6 +2,8 @@
 
 ![AWS Certified Solutions Architect](https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png | width=100)
 
+<img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100px"/>
+
 ## Conditions I like to work in
 - 🎵 I like to listen to music or real crime shows while working
 - 🖥️ I like tools I can use from the command line

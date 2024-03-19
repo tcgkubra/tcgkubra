@@ -2,7 +2,7 @@
 
 <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100px"/> <img src="https://talixa.com/media/certs/csm.png" width="100px"/> <img src="https://talixa.com/media/certs/ss-gb.png" width="100px"/> <img src="https://talixa.com/media/certs/itil.png" width="100px"/> <img src="https://talixa.com/media/certs/project-plus.png" width="100px"/> 
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,apple,arduino,aws,bash,bitbucket,c,cs,cpp,css,cypress,docker,eclipse,firebase,gamemakerstudio,git,github,gradle,hibernate,html,idea,java,js,jenkins,jquery,kafka,kali,kubernetes,latex,linux,md,maven,mongodb,mysql,nodejs,npm,opencv,perl,php,postgres,py,r,raspberrypi,spring,sqlite,sklearn,svg,terraform,ts,unity,visualstudio,vscode,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,apple,arduino,aws,bash,bitbucket,bsd,c,cs,cpp,css,cypress,debian,docker,eclipse,firebase,gamemakerstudio,git,github,gradle,hibernate,html,idea,java,js,jenkins,jquery,kafka,kali,kubernetes,latex,linux,md,maven,mongodb,mysql,nodejs,npm,opencv,perl,php,postgres,py,r,redhat,raspberrypi,spring,sqlite,sklearn,svg,terraform,ts,ubuntu,unity,visualstudio,vscode,wordpress)](https://skillicons.dev)
 
 ## Conditions I like to work in
 - 🎵 I like to listen to music or real crime shows while working

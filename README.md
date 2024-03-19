@@ -1,10 +1,8 @@
 # 👋 Hi, I’m @tcgkubra
 
-<img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100px"/> 
-<img src="https://talixa.com/media/certs/csm.png" width="100px"/>
-<img src="https://talixa.com/media/certs/ss-gb.png" width="100px"/> 
-<img src="https://talixa.com/media/certs/itil.png" width="100px"/> 
-<img src="https://talixa.com/media/certs/project-plus.png" width="100px"/> 
+<img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100px"/> <img src="https://talixa.com/media/certs/csm.png" width="100px"/> <img src="https://talixa.com/media/certs/ss-gb.png" width="100px"/> <img src="https://talixa.com/media/certs/itil.png" width="100px"/> <img src="https://talixa.com/media/certs/project-plus.png" width="100px"/> 
+
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,arduino,aws,bitbucket,c,cs,cpp,css,docker,eclipse,html,java,js,jenkins,jquery,kafka,latex,linux,md,mongodb,mysql,opencv,perl,php,py,r,raspberrypi,spring,sqlite,svg,ts,unity,vscode)](https://skillicons.dev)
 
 ## Conditions I like to work in
 - 🎵 I like to listen to music or real crime shows while working

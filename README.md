@@ -51,6 +51,8 @@
 ## Things I struggle with
 - 📈 I set high standards for myself and expect the same from others
   - If my expections are too high, let me know so we can set appropriate expectations
+- 🔥 I often play devils advocate when discussiong software requirements
+  - I am not trying to argue with you, I want to make sure all perspectives are considered
 
 
 ## Things I love

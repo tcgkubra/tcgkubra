@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @tcgkubra
 
-<img src="aws.png" width="100px" alt="AWS Certified Solutions Architect"/> <img src="csm.png" width="100px"/> <img src="sixsigma.png" width="100px"/> <img src="itil.png" width="100px"/> <img src="project.png" width="100px"/> <img src="pentest.png" width="100px"/> <img src="secplus.png" width="100px"/> <img src="netplus.png" width="100px"/>
+<img src="aws.png" width="100px"/> <img src="csm.png" width="100px"/> <img src="sixsigma.png" width="100px"/> <img src="itil.png" width="100px"/> <img src="project.png" width="100px"/> <img src="pentest.png" width="100px"/> <img src="secplus.png" width="100px"/> <img src="netplus.png" width="100px"/>
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,apple,arduino,aws,bash,bitbucket,bsd,c,cs,cpp,css,cypress,debian,docker,eclipse,firebase,gamemakerstudio,git,github,gradle,hibernate,html,idea,java,js,jenkins,jquery,kafka,kali,kubernetes,latex,linux,md,maven,mongodb,mysql,nodejs,npm,opencv,perl,php,postgres,py,r,redhat,raspberrypi,regex,spring,sqlite,sklearn,svg,terraform,ts,ubuntu,unity,vim,visualstudio,vscode,wordpress)](https://skillicons.dev)
 

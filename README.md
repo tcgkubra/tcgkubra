@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @tcgkubra
 
-![AWS Certified Solutions Architect](aws.png =100px)
+<img src="aws.png" width="100px"/> <img src="csm.png" width="100px"/> <img src="sixsigma.png" width="100px"/> <img src="itil.png" width="100px"/> <img src="project.png" width="100px"/> <img src="pentest.png" width="100px"/> <img src="secplus.png" width="100px"/> <img src="netplus.png" width="100px"/>
 
 <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100px"/> <img src="https://talixa.com/media/certs/csm.png" width="100px"/> <img src="https://talixa.com/media/certs/ss-gb.png" width="100px"/> <img src="https://talixa.com/media/certs/itil.png" width="100px"/> <img src="https://talixa.com/media/certs/project-plus.png" width="100px"/> <img src="https://talixa.com/media/certs/pentest-plus.png" width="100px"/> <img src="https://talixa.com/media/certs/security-plus.png" width="100px"/> <img src="https://talixa.com/media/certs/network-plus.png" width="100px"/>
 

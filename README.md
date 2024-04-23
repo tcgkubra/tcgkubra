@@ -17,11 +17,12 @@
  
 
 ## Best ways to communicate with me
-- ✔️ Slack - @tgerlach
+- ✔️ Slack - @tgerlach - I have Slack on my phone
+- ✔️ Video - Google Meet
 - ✔️ Phone - 814.505.7430
 - ✔️ JIRA/Confluence - @tgerlach
 - ✔️ Email - thomas.gerlach@kubra.com
-- ⭕ MS Teams - thomas.gerlach@hearst.com - I'm not a fan of microsoft products
+- ✖️ MS Teams - thomas.gerlach@hearst.com - I rarely check MS Teams
 
 
 ## How I best recieve feedback
@@ -43,7 +44,7 @@
 ## I’m currently learning
 - 👮‍♂️ I am studying for a PhD in Criminal Justice / Homeland Security
 - 🇨🇳 I am working toward HSK-3 Chinese language certification
-- 💻 I am studying for the CompTIA PenTest+ certification
+- 💻 I am studying for the CompTIA CySA+ certification
 - :atom: I am learning how to program quantum computers
 - 🇻🇳 I recently started learning to speak Vietnamese
   

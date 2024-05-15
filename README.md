@@ -48,6 +48,7 @@
   - 我去过了香港和深圳了，很想回去看长城。
   - 如果你看不懂这个，你应该学中文。
   - 我的中文名字是张文山。
+  - 我觉得中国文化很有意思。
 - 💻 I am studying for the CompTIA CySA+ certification
 - :atom: I am learning how to program quantum computers
 - 🇯🇵 I recently started learning to speak Japanese

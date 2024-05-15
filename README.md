@@ -23,6 +23,7 @@
 - ✔️ JIRA/Confluence - @tgerlach
 - ✔️ Email - thomas.gerlach@kubra.com
 - ✖️ MS Teams - thomas.gerlach@hearst.com - I rarely check MS Teams
+  - 🐧 I have used Unix-based systems for 30 years
 
 
 ## How I best recieve feedback

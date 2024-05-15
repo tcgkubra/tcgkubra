@@ -44,9 +44,10 @@
 ## I’m currently learning
 - 👮‍♂️ I am studying for a PhD in Criminal Justice / Homeland Security
 - 🇨🇳 I am working toward HSK-3 Chinese language certification
-  - 你好！我学中文学了十年多了！
-  - 我去过了香港和深圳了，很想回去看长城！
-  - 如果你看不懂这个，你应该学中文！
+  - 你好！我学中文学了十年多了。
+  - 我去过了香港和深圳了，很想回去看长城。
+  - 如果你看不懂这个，你应该学中文。
+  - 我的中文名字是张文山。
 - 💻 I am studying for the CompTIA CySA+ certification
 - :atom: I am learning how to program quantum computers
 - 🇯🇵 I recently started learning to speak Japanese

@@ -46,7 +46,7 @@
 - 🇨🇳 I am working toward HSK-3 Chinese language certification
 - 💻 I am studying for the CompTIA CySA+ certification
 - :atom: I am learning how to program quantum computers
-- 🇻🇳 I recently started learning to speak Vietnamese
+- 🇯🇵 I recently started learning to speak Japanese
   
   
 ## Things I struggle with

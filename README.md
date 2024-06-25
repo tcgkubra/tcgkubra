@@ -99,6 +99,7 @@
 ## Professional Memberships
 - 👨‍👩‍👧‍👦 American Sociological Association
 - 🧠 Association for the Advancement of Artificial Intelligence
+- 🥷 Association of Former Intelligence Officers
 - 🔌 Institute of Electrical and Electronics Engineers
 - 🤖 IEEE Computational Intelligence Society
 - 💻 IEEE Computer Society

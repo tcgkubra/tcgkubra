@@ -53,6 +53,7 @@
 - 💻 I am studying for the CompTIA CySA+ certification
 - :atom: I am learning how to program quantum computers
 - 🇯🇵 I recently started learning to speak Japanese
+  - 私は少し日本語を話します。 
   
   
 ## Things I struggle with

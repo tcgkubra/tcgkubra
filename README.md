@@ -87,7 +87,8 @@
 - 🎖️ I am a US Army Veteran
 - 🎷 I am a musician and play multiple instruments
 - 🥋 I have a third degree black belt in Taekwondo
-- 📻 I am a ham radio operator
+- 📻 I have an Extra Class Ham Radio License
+- 🛩️ I have a Small Unmanned Aircraft System (sUAS) Certificate
 - 📄 I have numerous certifications
   - ☁️ AWS Certified Solutions Architect
   - 👨‍💼 Six Sigma Green Belt, Certified Scrum Master, ITIL

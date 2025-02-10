@@ -88,6 +88,7 @@
 - 🎖️ I am a US Army Veteran
 - 🎷 I am a musician and play multiple instruments
 - 🥋 I have a third degree black belt in Taekwondo
+  - ⚔️ I also have extensive training with short swords 
 - 📻 I have an Extra Class Ham Radio License
 - 🛩️ I have a Small Unmanned Aircraft System (sUAS) Certificate
 - 📄 I have numerous certifications

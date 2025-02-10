@@ -54,7 +54,7 @@
 - :atom: I am learning how to program quantum computers
 - 🇯🇵 I recently started learning to speak Japanese
   - 私は少し日本語を話します。
-- ✈️ I am studying for a Private Pilot Certificate
+- ✈️ I am studying for a Recreational Pilot Certificate
   
   
 ## Things I struggle with

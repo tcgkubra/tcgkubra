@@ -101,12 +101,12 @@
 
 
 ## Professional Memberships
-- 👨‍👩‍👧‍👦 American Sociological Association
-- 🧠 Association for the Advancement of Artificial Intelligence
-- 🥷 Association of Former Intelligence Officers
-- 🔌 Institute of Electrical and Electronics Engineers
-- 🤖 IEEE Computational Intelligence Society
-- 💻 IEEE Computer Society
+- 👨‍👩‍👧‍👦 [American Sociological Association](https://www.asanet.org/)
+- 🧠 [Association for the Advancement of Artificial Intelligence](https://https://aaai.org/)
+- 🥷 [Association of Former Intelligence Officers](https://www.afio.com/)
+- 🔌 [Institute of Electrical and Electronics Engineers](https://ieee.org)
+- 🤖 [IEEE Computational Intelligence Society](https://cis.ieee.org)
+- 💻 [IEEE Computer Society](https://www.computer.org)
  
 
 ## Learn more about me

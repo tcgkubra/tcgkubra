@@ -73,7 +73,7 @@
 - 🌳 Assistant Scoutmaster with Boy Scouts of America
 - ⛓️ Prison Monitor with the Pennsylvania Prison Society
 - 👽 Field Investigator with the Mutual UFO Society
-- 👨‍💼 Mentor with American Community Partners
+- 👨‍💼 Mentor with American Corporate Partners
 
 
 ## Other stuff

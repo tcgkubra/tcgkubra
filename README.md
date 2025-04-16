@@ -70,10 +70,10 @@
 
 
 ## Volunteer Work
-- 🌳 *Assistant Scoutmaster* with [Boy Scouts of America](scouting.org)
-- ⛓️ *Prison Monitor* with the Pennsylvania Prison Society
-- 👽 *Field Investigator* with the Mutual UFO Society
-- 👨‍💼 *Mentor* with American Corporate Partners
+- 🌳 *Assistant Scoutmaster* with [Boy Scouts of America](https://scouting.org)
+- ⛓️ *Prison Monitor* with the [Pennsylvania Prison Society](https://prisonsociety.org)
+- 👽 *Field Investigator* with the [Mutual UFO Society](https://mufon.com)
+- 👨‍💼 *Mentor* with [American Corporate Partners](https://acp-usa.org)
 
 
 ## Other stuff

@@ -76,6 +76,15 @@
 - 👨‍💼 *Mentor* with [American Corporate Partners](https://acp-usa.org)
 
 
+## Professional Memberships
+- 👨‍👩‍👧‍👦 [American Sociological Association](https://www.asanet.org/)
+- 🧠 [Association for the Advancement of Artificial Intelligence](https://aaai.org/)
+- 🥷 [Association of Former Intelligence Officers](https://www.afio.com/)
+- 🔌 [Institute of Electrical and Electronics Engineers](https://ieee.org)
+- 🤖 [IEEE Computational Intelligence Society](https://cis.ieee.org)
+- 💻 [IEEE Computer Society](https://www.computer.org)
+
+
 ## Other stuff
 - 🖼️ I believe laptop stickers are an important part of individual expression
 - 📜 I have an odd education which gives me a different perspective from many developers
@@ -98,15 +107,6 @@
   - 💻 CompTIA A+, Network+, Security+, PenTest+, Project+
   - 👨‍🔬 CITI Program Responsible Conduct of Research, Human Subjects Research
   - 👨‍💻 CIW Advanced HTML5 and CSS Specialist, User Interface Designer
-
-
-## Professional Memberships
-- 👨‍👩‍👧‍👦 [American Sociological Association](https://www.asanet.org/)
-- 🧠 [Association for the Advancement of Artificial Intelligence](https://aaai.org/)
-- 🥷 [Association of Former Intelligence Officers](https://www.afio.com/)
-- 🔌 [Institute of Electrical and Electronics Engineers](https://ieee.org)
-- 🤖 [IEEE Computational Intelligence Society](https://cis.ieee.org)
-- 💻 [IEEE Computer Society](https://www.computer.org)
  
 
 ## Learn more about me

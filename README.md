@@ -45,7 +45,6 @@
 ## I’m currently learning
 - 👮‍♂️ I am studying for a PhD in Criminal Justice / Homeland Security
 - 🇨🇳 I am working toward HSK-3 Chinese language certification
-- 💻 I am studying for the CompTIA CySA+ certification
 - :atom: I am learning how to program quantum computers
 - 🇯🇵 I recently started learning to speak Japanese
 - ✈️ I am studying for a Recreational Pilot Certificate
@@ -104,7 +103,7 @@
 - 📄 I have numerous certifications
   - ☁️ AWS Certified Solutions Architect
   - 👨‍💼 Six Sigma Green Belt, Certified Scrum Master, ITIL
-  - 💻 CompTIA A+, Network+, Security+, PenTest+, Project+
+  - 💻 CompTIA A+, Network+, Security+, PenTest+, CySA+, Project+
   - 👨‍🔬 CITI Program Responsible Conduct of Research, Human Subjects Research
   - 👨‍💻 CIW Advanced HTML5 and CSS Specialist, User Interface Designer
  

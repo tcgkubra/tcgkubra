@@ -109,5 +109,5 @@
  
 
 ## Learn more about me
-- 🌎 Connect with me on [LinkedIn](https://linkedin.com/in/tcgerlach)
+- 🌎 [LinkedIn](https://linkedin.com/in/tcgerlach) - [OrcID](https://orcid.org/0000-0003-4596-2767) - [Credly](https://www.credly.com/users/thomas-gerlach)
 - 📖 See what [I'm currently reading](https://www.librarything.com/catalog/tcgerlach/currentlyreading)

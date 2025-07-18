@@ -45,9 +45,11 @@
 
 ## I’m currently learning
 - 👮‍♂️ I am studying for a PhD in Criminal Justice / Homeland Security
+- 🦉 I am taking a certificate program in artificial intelligence at WGU
 - 🇨🇳 I am working toward HSK-3 Chinese language certification
 - :atom: I am learning how to program quantum computers
-- 🇯🇵 I recently started learning to speak Japanese
+- 🇯🇵 I am learning to speak Japanese
+- 🇮🇷 I recently started studing Persian
 - ✈️ I am studying for a Recreational Pilot Certificate
   
   
@@ -92,8 +94,9 @@
   - 📈 Master of Business Administration in Information Technology Management
   - 💻 Bachelor of Science in Software Development
   - 🧠 Associate of Science in Psychology
-  - 💊 Certificate in Herbal Medicine
-  - 🔑 Certificate in Locksmithing
+  - 👨‍💻 Certificate in AI Fundamental Skills (In Progress) 
+  - 💊 Diploma in Herbal Medicine
+  - 🔑 Diploma in Locksmithing
   - 📻 Extensive Training in Radio Communications Systems
 - 🎖️ I am a US Army Veteran
 - 🎷 I am a musician and play multiple instruments

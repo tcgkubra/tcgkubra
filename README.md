@@ -45,12 +45,12 @@
 
 ## I’m currently learning
 - 👮‍♂️ I am studying for a PhD in Criminal Justice / Homeland Security
-- 🦉 I am taking a certificate program in artificial intelligence at WGU
+- 💰 I'm studying to become a Certified Anti-Money Laundering Specialist
 - 🇨🇳 I am working toward HSK-3 Chinese language certification
 - :atom: I am learning how to program quantum computers
 - 🇯🇵 I am learning to speak Japanese
-- 🇮🇷 I recently started studing Persian
 - ✈️ I am studying for a Recreational Pilot Certificate
+- 🥋 I'm training for a 4th degree Master Black Belt
   
   
 ## Things I struggle with
@@ -94,7 +94,7 @@
   - 📈 Master of Business Administration in Information Technology Management
   - 💻 Bachelor of Science in Software Development
   - 🧠 Associate of Science in Psychology
-  - 👨‍💻 Certificate in AI Fundamental Skills (In Progress) 
+  - 🤖 Certificate in Artificial Intelligence
   - 💊 Diploma in Herbal Medicine
   - 🔑 Diploma in Locksmithing
   - 📻 Extensive Training in Radio Communications Systems

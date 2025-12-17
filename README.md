@@ -46,11 +46,19 @@
 ## I’m currently learning
 - 👮‍♂️ I am studying for a PhD in Criminal Justice / Homeland Security
 - 💰 I'm studying to become a Certified Anti-Money Laundering Specialist
-- 🇨🇳 I am working toward HSK-3 Chinese language certification
 - :atom: I am learning how to program quantum computers
-- 🇯🇵 I am learning to speak Japanese
-- ✈️ I am studying for a Recreational Pilot Certificate
 - 🥋 I'm training for a 4th degree Master Black Belt
+- 📊 I'm studying linear algebra
+
+
+## Languages I'm Currently Studying
+- 🇨🇳 Chinese
+- 🇫🇷 French
+- 🇩🇪 German
+- 🇯🇵 Japanese
+- 🇰🇷 Korean
+- 🇸🇪 Swedish
+
   
   
 ## Things I struggle with
@@ -71,7 +79,8 @@
 - 👨‍👩‍👧‍👦 Social Sciences
 
 
-## Volunteer Work
+##  Volunteer Work
+- 🧑‍⚖️ *Judge of Election* for Altoona's 11th Ward, 1st Precinct
 - 🌳 *Assistant Scoutmaster* with [Boy Scouts of America](https://scouting.org)
 - ⛓️ *Prison Monitor* with the [Pennsylvania Prison Society](https://prisonsociety.org)
 - 👽 *Field Investigator* with the [Mutual UFO Network](https://mufon.com)

@@ -46,6 +46,7 @@
 ## I’m currently learning
 - 👮‍♂️ I am studying for a PhD in Criminal Justice / Homeland Security
 - 💰 I'm studying to become a Certified Anti-Money Laundering Specialist
+- ⚕️I'm studying to take the EMT Certification Exam
 - :atom: I am learning how to program quantum computers
 - 🥋 I'm training for a 4th degree Master Black Belt
 - 📊 I'm studying linear algebra

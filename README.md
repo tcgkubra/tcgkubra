@@ -49,7 +49,6 @@
 - ⚕️I'm studying to take the EMT Certification Exam
 - :atom: I am learning how to program quantum computers
 - 🥋 I'm training for a 4th degree Master Black Belt
-- 📊 I'm studying linear algebra
 
 
 ## Languages I'm Currently Studying
@@ -81,11 +80,11 @@
 
 
 ##  Volunteer Work
-- 🧑‍⚖️ *Judge of Election* for Altoona's 11th Ward, 1st Precinct
 - 🌳 *Assistant Scoutmaster* with [Boy Scouts of America](https://scouting.org)
-- ⛓️ *Prison Monitor* with the [Pennsylvania Prison Society](https://prisonsociety.org)
 - 👽 *Field Investigator* with the [Mutual UFO Network](https://mufon.com)
+- 🧑‍⚖️ *Judge of Election* for Altoona's 11th Ward, 1st Precinct
 - 👨‍💼 *Mentor* with [American Corporate Partners](https://acp-usa.org)
+- ⛓️ *Prison Monitor* with the [Pennsylvania Prison Society](https://prisonsociety.org)
 
 
 ## Professional Memberships

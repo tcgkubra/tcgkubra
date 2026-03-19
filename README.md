@@ -75,7 +75,7 @@
 - 🥷 Martial Arts
 - 🧙 Medieval History
 - 🎵 Music
-- 👨‍👩‍👧‍👦 Social Sciences
+- 👨‍👩‍👧‍👦 Sociology 
 
 
 ##  Volunteer Work

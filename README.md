@@ -44,9 +44,8 @@
 
 
 ## I’m currently learning
-- 👮‍♂️ I am studying for a PhD in Criminal Justice / Homeland Security
 - 💰 I'm studying to become a Certified Anti-Money Laundering Specialist
-- ⚕️I'm studying to take the EMT Certification Exam
+- ⚕️ I'm studying to take the EMT Certification Exam
 - :atom: I am learning how to program quantum computers
 - 🥋 I'm training for a 4th degree Master Black Belt
 
@@ -99,7 +98,7 @@
 ## Other stuff
 - 🖼️ I believe laptop stickers are an important part of individual expression
 - 📜 I have an odd education which gives me a different perspective from many developers
-  - 🕵️‍♂️ Doctor of Philosophy in Criminal Justice / Homeland Security (In Progress)
+  - 🕵️‍♂️ Doctor of Philosophy in Criminal Justice / Homeland Security
   - 📈 Master of Business Administration in Information Technology Management
   - 💻 Bachelor of Science in Software Development
   - 🧠 Associate of Science in Psychology

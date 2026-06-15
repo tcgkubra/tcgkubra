@@ -13,7 +13,6 @@
 
 ## Times / hours I like to work
 - 🕛 8 AM - 4:30 PM Eastern Time
-  - 🌞 Summer Hours: 8 AM - 5:30 PM Eastern Time  
 - 🏠 I live in Altoona, Pennsylvania and we observe DST
  
 
@@ -53,9 +52,9 @@
 - 🇫🇷 French
 - 🇩🇪 German
 - 🇯🇵 Japanese
+- 🇹🇿 Swahili
 - 🇸🇪 Swedish
 
-  
   
 ## Things I struggle with
 - 📈 I set high standards for myself and expect the same from others

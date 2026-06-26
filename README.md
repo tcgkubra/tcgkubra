@@ -17,7 +17,7 @@
  
 
 ## Best ways to communicate with me
-- ✔️ Slack - @tgerlach - I have Slack on my phone
+- ✔️ Slack - @tgerlach
 - ✔️ Video - Google Meet
 - ✔️ Phone - 814.505.7430
 - ✔️ JIRA/Confluence - @tgerlach

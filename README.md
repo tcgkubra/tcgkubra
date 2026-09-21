@@ -51,6 +51,7 @@
 - 🇨🇳 Chinese
 - 🇫🇷 French
 - 🇩🇪 German
+- 🇬🇷 Greek
 - 🇯🇵 Japanese
 - 🇹🇿 Swahili
 - 🇸🇪 Swedish
